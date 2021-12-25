@@ -45,8 +45,8 @@
     outline: 0;
     font-family: 'Rubik', sans-serif;
 }
-.main{
-    background: url(/images/lunchcopy.jpg) no-repeat;
+.main {
+    background: url(../../images/lunchcopy.jpg);
     background-size: cover;
     background-position: 50% 50%;
     min-height: 100vh;
